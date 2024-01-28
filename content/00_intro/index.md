@@ -1,5 +1,4 @@
 ---
-sidebar_position: 00
 sidebar_label: id Tech 3 Mapping
 ---
 # Welcome!
