@@ -20,7 +20,7 @@ ROOT
  └─ 🗀 public
 ```
 ### `./content`
-Stores all of the files that will become part of the documentation website.  
+Stores all of the files that will be interpreted as content for the website.  
 ### `src/website.config.ts`
 Stores all of the site's configuration options in one place for easier/simpler access.  
 ### `src/docusaurus`
