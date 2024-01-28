@@ -3,7 +3,7 @@
 const RootDir = "../../"
 const SrcDir  = "../"
 export const Dir = {
-  docs   : RootDir+"docs",
+  docs   : RootDir+"content",
   blog   : SrcDir+"blog",
   static : SrcDir+"static",
   pages  : SrcDir+"pages",

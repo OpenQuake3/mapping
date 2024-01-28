@@ -8,7 +8,7 @@
 ## Project Structure
 ```md
 ROOT
- ├─ 🗀 docs
+ ├─ 🗀 content
  ├─ 🗀 src
  │   ├─ 🗀 blog
  │   ├─ 🗀 css
@@ -19,7 +19,7 @@ ROOT
  │   └─ 🗎 website.config.ts
  └─ 🗀 public
 ```
-### `./docs`
+### `./content`
 Stores all of the files that will become part of the documentation website.  
 ### `src/website.config.ts`
 Stores all of the site's configuration options in one place for easier/simpler access.  
