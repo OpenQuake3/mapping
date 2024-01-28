@@ -6,6 +6,19 @@
    The command will launch a development version of the website that can be accessed from `localhost`.  
 
 ## Project Structure
+```md
+ROOT
+ ├─ 🗀 docs
+ ├─ 🗀 src
+ │   ├─ 🗀 blog
+ │   ├─ 🗀 css
+ │   ├─ 🗀 docusaurus
+ │   ├─ 🗀 pages
+ │   ├─ 🗀 static
+ │   │   └─ 🗀 img
+ │   └─ 🗎 website.config.ts
+ └─ 🗀 public
+```
 ### `./docs`
 Stores all of the files that will become part of the documentation website.  
 ### `src/website.config.ts`
