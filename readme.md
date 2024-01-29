@@ -2,7 +2,8 @@
 
 ## Local development
 1. Install Node. [(recommended: `nvm`)](https://github.com/nvm-sh/nvm)  
-2. Run `npm start` from the `src/docusaurus` folder.  
+2. Install all required npm modules with `npm install` from `src/docusaurus` when running it for the first time.
+3. Run `npm start` from the `src/docusaurus` folder.  
    The command will launch a development version of the website that can be accessed from `localhost`.  
 
 ## Project Structure
