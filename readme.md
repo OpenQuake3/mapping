@@ -1,4 +1,6 @@
 # id-Tech3 Mapping Website
+> **Important**: This project is very Work-In-Progress  
+> Goal: Create a website for the id-Tech3 mapping Trello board  
 
 ## Local development
 1. Install Node. [(recommended: `nvm`)](https://github.com/nvm-sh/nvm)  
